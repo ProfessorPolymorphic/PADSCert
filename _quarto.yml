@@ -1,0 +1,20 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Professional Applications of Data Science"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+  
+sidebar:
+   contents: auto
+
+format:
+  html:
+    theme: spacelab
+    css: styles.css
+    toc: true
+
