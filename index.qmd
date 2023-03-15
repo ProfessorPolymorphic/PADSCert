@@ -20,7 +20,7 @@ The 12 credit certificate requires the following courses:
 
 Students are provided a foundation for "thinking with data" through the introduction of computational, statistical, and data literacy skills. This includes the selection, collection, cleaning, management, descriptive analysis, and exploratory analysis of a dataset unique to their professional interests using modern computing languages.
 
-#### BCB 520 Data Visualization (3 credits)
+#### [BCB 520 Data Visualization](https://professorpolymorphic.github.io/RobisonWebSite/BCB520/) (3 credits)
 
 This course covers the conceptual foundations of data visualization and design. Students will learn how visualization design choices related to marks and channels, color, and spatial arrangement interact with the human perceptual system. The course considers tabular, network, and spatial data, and students will implement visualizations in R.
 
@@ -43,12 +43,14 @@ For students seeking to add the certificate to an existing degree at UI, or stud
 
 ## TASKS
 
-### Marketing Plan
+### [Marketing Plan](Marketing.qmd)
 
-### Online Course Development
+### [Online Course Development](Online.qmd)
 
 ### Certificate Assessment
 
 ### Elective Integration
+
+### [Resources and Opportunities](Resources.qmd)
 
 

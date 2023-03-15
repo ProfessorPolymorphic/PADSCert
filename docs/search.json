@@ -46,6 +46,76 @@
     "href": "index.html#tasks",
     "title": "Professional Applications of Data Science",
     "section": "TASKS",
-    "text": "TASKS\n\nMarketing Plan\n\n\nOnline Course Development\n\n\nCertificate Assessment\n\n\nElective Integration"
+    "text": "TASKS\n\nMarketing Plan\n\n\nOnline Course Development\n\n\nCertificate Assessment\n\n\nElective Integration\n\n\nResources and Opportunities"
+  },
+  {
+    "objectID": "Online.html#rsi-plan",
+    "href": "Online.html#rsi-plan",
+    "title": "Online Deployment",
+    "section": "RSI PLAN",
+    "text": "RSI PLAN"
+  },
+  {
+    "objectID": "Online.html#canvas-integration",
+    "href": "Online.html#canvas-integration",
+    "title": "Online Deployment",
+    "section": "CANVAS INTEGRATION",
+    "text": "CANVAS INTEGRATION"
+  },
+  {
+    "objectID": "Resources.html",
+    "href": "Resources.html",
+    "title": "Resources",
+    "section": "",
+    "text": "https://moverton.shinyapps.io/Learnr_example/#section-learnr-and-gradethis-packages"
+  },
+  {
+    "objectID": "Resources.html#quarto",
+    "href": "Resources.html#quarto",
+    "title": "Resources",
+    "section": "QUARTO",
+    "text": "QUARTO"
+  },
+  {
+    "objectID": "Resources.html#portfolios",
+    "href": "Resources.html#portfolios",
+    "title": "Resources",
+    "section": "PORTFOLIOS",
+    "text": "PORTFOLIOS"
+  },
+  {
+    "objectID": "Resources.html#github",
+    "href": "Resources.html#github",
+    "title": "Resources",
+    "section": "GITHUB",
+    "text": "GITHUB"
+  },
+  {
+    "objectID": "Resources.html#youtube",
+    "href": "Resources.html#youtube",
+    "title": "Resources",
+    "section": "YOUTUBE",
+    "text": "YOUTUBE"
+  },
+  {
+    "objectID": "Marketing.html#web-site",
+    "href": "Marketing.html#web-site",
+    "title": "Program Marketing",
+    "section": "WEB SITE",
+    "text": "WEB SITE\n\nBCB Web Page\n\n\nDatascience.uidaho.edu\n\n\nOther"
+  },
+  {
+    "objectID": "Marketing.html#print-materials",
+    "href": "Marketing.html#print-materials",
+    "title": "Program Marketing",
+    "section": "PRINT MATERIALS",
+    "text": "PRINT MATERIALS\n\nTrifold\n\n\nPosters"
+  },
+  {
+    "objectID": "Marketing.html#video",
+    "href": "Marketing.html#video",
+    "title": "Program Marketing",
+    "section": "VIDEO",
+    "text": "VIDEO"
   }
 ]

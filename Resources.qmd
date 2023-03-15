@@ -1,0 +1,15 @@
+---
+title: "Resources"
+---
+
+## LEARNR
+
+https://moverton.shinyapps.io/Learnr_example/#section-learnr-and-gradethis-packages
+
+## QUARTO
+
+## PORTFOLIOS
+
+## GITHUB
+
+## YOUTUBE
