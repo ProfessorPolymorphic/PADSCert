@@ -9,7 +9,7 @@ website:
       - href: index.qmd
         text: Home
   
-sidebar:
+  sidebar:
    contents: auto
 
 format:

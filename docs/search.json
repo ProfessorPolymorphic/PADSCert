@@ -49,11 +49,18 @@
     "text": "TASKS\n\nMarketing Plan\n\n\nOnline Course Development\n\n\nCertificate Assessment\n\n\nElective Integration\n\n\nResources and Opportunities"
   },
   {
+    "objectID": "Online.html",
+    "href": "Online.html",
+    "title": "Online Deployment",
+    "section": "",
+    "text": "library(readxl)\n\nonline&lt;-read_xlsx(\"online.xlsx\")\n\nNew names:\n• `` -&gt; `...2`\n\nknitr::kable(online)\n\n\n\n\nCourse\n…2\nInstructor\nIn-Person\nSynch-Online\nAsynch-Online\n\n\n\n\nINTR 509\nIntro to Data Science\nOverton\nFall\nFall 23\nno\n\n\nBCB 520\nFoundations of Data Visualization\nRobison\nSpring\nSpring 23\nno\n\n\nBCB 521\nCommunicating with Data\nRobison\nFall\nFall 23\nno\n\n\nBCB 522\nData Science Portfolio\nRobison\nBoth\nBoth\nin progress\n\n\nSTAT 431\nStatistical Analysis\nWilliams\nBoth\nEO\nno\n\n\nSTAT 422\nSample Survey Methods\nRenae Shrum\nBoth\nEO\nno\n\n\nSTAT 431\nStatistical Analysis\nChristopher Williams\nBoth\nEO\nno\n\n\nSTAT 451\nProbability Theory\nChristopher Remien\nBoth\nEO\nno\n\n\nSTAT 452\nMathematical Statistics\nBrian Dennis\nBoth\nEO\nno\n\n\nSTAT 550\nRegression\nChristopher Williams\nBoth\nEO\nno\n\n\nSTAT 555\nStatistical Ecology\nBrian Dennis\nBoth\nEO\nno\n\n\n\n\n\nWhat is the difference between online delivery and Engineering Outreach?"
+  },
+  {
     "objectID": "Online.html#rsi-plan",
     "href": "Online.html#rsi-plan",
     "title": "Online Deployment",
     "section": "RSI PLAN",
-    "text": "RSI PLAN"
+    "text": "RSI PLAN\nOnline components that provide Regular and Substantive Interaction."
   },
   {
     "objectID": "Online.html#canvas-integration",
@@ -96,6 +103,13 @@
     "title": "Resources",
     "section": "YOUTUBE",
     "text": "YOUTUBE"
+  },
+  {
+    "objectID": "Marketing.html",
+    "href": "Marketing.html",
+    "title": "Program Marketing",
+    "section": "",
+    "text": "Graduate students enrolled at the UI can add the certificate to their degree plan. Courses can count toward the degree plan and the certificate.\nSpecific programs that are synergistic with the certificate include:\nMS or PHD in Bioinformatics and Computational Biology. Masters in Public Administration."
   },
   {
     "objectID": "Marketing.html#web-site",

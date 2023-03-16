@@ -4,6 +4,21 @@ title: "Online Deployment"
 
 ## CURRENT STATUS
 
+```{r}
+library(readxl)
+
+online<-read_xlsx("online.xlsx")
+
+knitr::kable(online)
+
+
+```
+
+What is the difference between online delivery and Engineering Outreach?
+
 ## RSI PLAN
 
+Online components that provide Regular and Substantive Interaction.
+
 ## CANVAS INTEGRATION
+
